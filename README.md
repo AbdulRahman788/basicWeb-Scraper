@@ -6,6 +6,14 @@ You can run this project on your local machine. Just pull it down and do the fol
 ### `npm i`
 
 1. Run the command above to install all the packages
+ ### packages are: axios, cheerio and express 
+ #### in case if code doesnot run do check your nodejs(v18.16.0) and nodemon version 
+ #### version 
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
 
 ### Start the Project
 
