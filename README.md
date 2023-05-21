@@ -15,7 +15,7 @@ You can run this project on your local machine. Just pull it down and do the fol
 npm run start
 ```
 
-3. Open [http://localhost:8000/results](http://localhost:8000/results) with your browser to see the results of the scrape in your terminal.
+3. Open [http://localhost:8080/results](http://localhost:8080/results) with your browser to see the results of the scrape in your terminal.
 
 
 Web-Scraper 
